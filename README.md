@@ -33,6 +33,7 @@ Proyek ini merupakan implementasi sistem MLOps *end-to-end* untuk memprediksi ri
 └── Monitoring_dan_Logging/  # Implementasi monitoring produksi
     ├── prometheus_exporter.py # Exporter metrik sistem dan model
     └── inference.py         # Simulasi layanan inferensi (serving)
+```
 
 ## 📋 Komponen Proyek
 
