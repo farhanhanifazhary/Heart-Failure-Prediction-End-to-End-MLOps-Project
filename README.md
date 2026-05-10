@@ -3,7 +3,6 @@
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![DagsHub](https://img.shields.io/badge/DagsHub-Heart--Failure-blue?logo=dagshub&logoColor=white)](https://dagshub.com/farhanhanifazhary/Heart-Failure)
-[![CI Workflow](https://github.com/farhanhanifazhary/Heart-Failure/actions/workflows/ci.yml/badge.svg)](https://github.com/farhanhanifazhary/Heart-Failure/actions)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 Proyek ini merupakan implementasi sistem MLOps *end-to-end* untuk memprediksi risiko kegagalan jantung menggunakan dataset rekam medis klinis. Proyek ini mencakup seluruh siklus hidup pengembangan model, mulai dari eksperimen data, pelacakan model, otomasi CI/CD, hingga pemantauan performa di lingkungan produksi.
